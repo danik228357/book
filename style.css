@@ -1,0 +1,292 @@
+body{
+    margin: 0px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 280px;
+}
+.left{
+    margin-top: 40px;
+}
+.kvadrat1{
+    background-color: DarkGoldenRod;
+    width: 325px;
+    height: 300px;
+    border-radius: 0px 50% 50% 0px;
+    
+}
+.avatar{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: solid white 5px;
+}
+.znachki{
+    margin-top: 40px;
+    margin-left: 15px;
+    
+}
+.z6{
+    width: 30px;
+    height: 35px;
+    padding: 13px;
+}
+.contact{
+    background-color: darkgoldenrod;
+    width: 325px;
+    height: 770px;
+    margin-top: 10px;
+    border-radius: 65px 65px 0px 0px;
+    text-align: center;
+}
+h1{
+    margin-left: -10px;
+    padding-top: 50px;
+    font-size: 40px;
+}
+ul{
+    color: whitesmoke;
+    margin-left: 30px;
+    text-align: start;
+    line-height: 25px;
+    font-size: 20px;
+}
+h2{
+    margin-left: -40px;
+    padding-top: 15px;
+    font-size: 40px;
+}
+.line{
+    position: absolute;
+    width: 50px;
+    height: 110px;
+    left: 300px;
+}
+.ul{
+    list-style: none;
+    margin-top: 10px;
+}
+.right{
+    position: absolute;
+    top: 40px;
+    left: 650px;
+}
+.DiKaprio{
+    margin-top: 25px;
+    
+    display: flex;
+    flex-direction: column;
+    background-color: darkgoldenrod;
+    height: 250px;
+    width: 500px;
+}
+h3{
+    position: relative;
+    top: -45px;
+    left: 15px;
+    color: white;
+    font-size: 50px;
+    
+}
+.p1{
+    position: relative;
+    top: -135px;
+    left: 15px;
+    font-size: 35px;
+    color: white;
+}
+.p2{
+    position: relative;
+    top: -185px;
+    left: 15px;
+    line-height: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: inherit;
+}
+.Work{
+    position: relative;
+    left: 10px;
+    top: -50px;
+}
+.color{
+    color: black;
+    margin-top: -40px;
+    font-size: 22px;
+}
+.p3{
+    position: relative;
+    left: 40px;
+    top: -15px;
+    font-size: 26px;
+}
+.line2{
+    position: absolute;
+    height: 220px;
+    width: 60px;
+    margin-top: 110px;
+    margin-left: -25px;
+}
+.p4{
+    position: relative;
+    left: 40px;
+    
+    font-size: 26px;
+}
+.color2{
+    color: black;
+    margin-top: -23px;
+    font-size: 22px;
+}
+.line3{
+    position: absolute;
+    height: 140px;
+    width: 40px;
+    margin-top: -80px;
+    margin-left: -14.5px;
+}
+.last{
+    padding-left: 17px;
+    margin-top: -90px;
+}
+.ulast{
+    margin-left: -25px;
+    color: black;
+}
+.laspoint{
+    position: relative;
+    left: 260px;
+    bottom: 137px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint2{
+    position: relative;
+    left: 260px;
+    bottom: 137px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint3{
+    position: relative;
+    left: 260px;
+    bottom: 137px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint4{
+    position: relative;
+    left: 260px;
+    bottom: 137px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint5{
+    position: relative;
+    left: 260px;
+    bottom: 137px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint6{
+    position: relative;
+    left: 260px;
+    bottom: 155px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint7{
+    position: relative;
+    left: 260px;
+    bottom: 173px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint8{
+    position: relative;
+    left: 260px;
+    bottom: 191px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint9{
+    position: relative;
+    left: 260px;
+    bottom: 209px;
+    height: 22px;
+    width: 15px;
+}
+.last2{
+    padding-left: 17px;
+    position: absolute;
+    margin-top: -270px;
+    
+}
+.laspoint12{
+    position: relative;
+    left: 260px;
+    bottom: 112px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint21{
+    position: relative;
+    left: 260px;
+    bottom: 112px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint31{
+    position: relative;
+    left: 260px;
+    bottom: 112px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint41{
+    position: relative;
+    left: 260px;
+    bottom: 112px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint51{
+    position: relative;
+    left: 260px;
+    bottom: 112px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint61{
+    position: relative;
+    left: 260px;
+    bottom: 130px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint71{
+    position: relative;
+    left: 260px;
+    bottom: 148px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint81{
+    position: relative;
+    left: 260px;
+    bottom: 166px;
+    height: 22px;
+    width: 15px;
+}
+.laspoint91{
+    position: relative;
+    left: 260px;
+    bottom: 284px;
+    height: 22px;
+    width: 15px;
+}
